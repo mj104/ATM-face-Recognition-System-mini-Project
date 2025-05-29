@@ -1,0 +1,19 @@
+{
+    "name": "faceRecognition ATM System ",
+    "short_name": "ATM",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50",
+    "icons": [{
+            "src": "Atm.jpg",
+            "sizes": "192x192",
+            "type": "image/jpg"
+        },
+        {
+            "src": "Atm.jpg",
+            "sizes": "512x512",
+            "type": "image/jpg"
+        }
+    ]
+}
